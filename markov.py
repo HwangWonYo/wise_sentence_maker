@@ -2,7 +2,7 @@ from konlpy.tag import Twitter
 import random
 
 
-class Marcov:
+class Markov:
     def __init__(self):
         self.root = {'START': set()}
         self.twitter = Twitter()

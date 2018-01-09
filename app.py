@@ -1,7 +1,7 @@
 from wise_sentence import lines
-from marcov import Marcov
+from markov import Markov
 
-wise = Marcov()
+wise = Markov()
 
 def line_parser(lines):
     for line in lines:
