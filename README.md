@@ -11,5 +11,5 @@ python app.py
 ```
 > wise_sentence.py에 있는 명언 50개를 학습하여 10개를 임의로 생성한다.
 
-#####example screenshot
+##### example screenshot
 ![composite_message](/images/example.png)
